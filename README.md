@@ -1,4 +1,4 @@
-"""# 🐾 Pet Boutique – Landing Page
+## 🐾 Pet Boutique – Landing Page
 
 **Pet Boutique** é uma landing page desenvolvida para apresentar serviços de um pet shop com estilo e elegância, destacando os principais serviços, produtos, marcas parceiras e formas de contato.
 
@@ -20,3 +20,15 @@
 - **Fontes e Ícones personalizados**
 
 ## 📂 Estrutura do Projeto
+├── index.html
+├── css/
+│ └── estilo.css
+├── img/
+│ ├── patas.png
+│ ├── redes-sociais/
+│ ├── marcas/
+│ ├── Banho.png
+│ ├── veterinario.png
+│ ├── dog-walker.png
+│ ├── creche.png
+│ └── loja.png
