@@ -20,7 +20,7 @@
 - **Fontes e Ícones personalizados**
 
 ## 📂 Estrutura do Projeto
-├── index.html
+```├── index.html
 ├── css/
 │ └── estilo.css
 ├── img/
@@ -32,3 +32,10 @@
 │ ├── dog-walker.png
 │ ├── creche.png
 │ └── loja.png
+```
+
+## 🚀 Como Visualizar o Projeto
+
+1. **Clone o repositório:**
+   ```bash
+  [ git clone https://github.com/seu-usuario/pet-boutique.git](https://matheusdev95.github.io/PetShop/)
