@@ -37,5 +37,5 @@
 ## 🚀 Como Visualizar o Projeto
 
 1. **Clone o repositório:**
-   ```bash
+   
   [ git clone https://github.com/seu-usuario/pet-boutique.git](https://matheusdev95.github.io/PetShop/)
