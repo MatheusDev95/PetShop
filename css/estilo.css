@@ -1,0 +1,80 @@
+/*Estilização global*/
+*{/*Reset de estilização padrão*/
+	margin:0; padding:0; font-family:sans-serif; }
+.limitesDiv{padding: 120px 80px;}
+.bkgPadrao{background-color: #3c184e; text-align: center; color: #fff;}
+
+/*Estilização comum*/
+/*Seção topo*/
+.secao-topo{width:100%; background-image: url('../img/banner-topo.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; padding: 120px 80px;}
+.secao-topo .logo{
+	width: 250px;
+	color: #3c184e;
+}
+.secao-topo .logo #logoPet{
+	font-size: 35px;
+	margin: 0 0 5px 0;
+}
+.secao-topo .logo #logoMsg{
+	font-size: 14px;
+	text-align: center;
+	margin: 0;
+}
+.secao-topo .logo img{
+	width: 35px;
+	margin: 0 5px;
+}
+.secao-topo .secao-banner{
+	max-width:1024px;
+	border-radius:15px;
+	padding: 40px;
+	margin-top: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0;
+	background-color:#ffffffc4;
+	box-shadow: 0 8px 32px #1f26875e;
+	text-align: center;
+}
+.secao-topo .secao-banner h1{
+	font-size: 60px;
+	color: #3c184e;
+	text-align: center;
+	font-weight: 800;
+	margin: 0 0 40px 0;
+}
+.secao-topo .secao-banner a{width:200px; padding: 10px 25px; margin: 0 auto;  border-radius:10px; background-color:#3c184e;
+	font-size:20px;
+	text-align:center;
+	color:#fff;
+	text-decoration:none;
+}
+.secao-topo .secao-banner a img{width:20px; margin-left:5px;}
+
+/*seção serviços*/
+.secao-servico h2{font-size: 36px; color: #3c184e; text-align: center; margin: 0 0 45px 0; }
+.secao-servico ul{list-style: square;}
+.secao-servico ul span{font-weight: 700; font-style: italic;}
+.secao-servico ul li{max-width: 800px; margin: 0 auto 25px auto; color: #3c184e;}
+.secao-servico .galeria{max-width: 800px; margin: 0 auto; align-items: center;}
+.secao-servico .galeria img{border-radius: 5px; box-shadow: 3px 6px 10px 6px #0000005c;}
+
+/*Seção Redes Sociais*/
+.secao-RedesSociais p{max-width: 800px; margin: 0 auto 50px auto; font-size: 40px;}
+.secao-RedesSociais span{font-weight: 700; font-style: italic;}
+.secao-RedesSociais img{margin: 20px; width: 50px;}
+
+/*Seção marcas*/
+.secao-marcas{margin-top: 15px;}
+.secao-marcas h3{text-align: center; font-size: 36px; color: #3c184e; margin: 0 0 45px 0;}
+.secao-marcas div{max-width: 800px; margin: 0 auto; text-align: center;}
+.secao-marcas div img{margin:15px;}
+
+/*Seção localizacao*/
+.secao-localizacao{text-align: center; margin-bottom: 3px;}
+.secao-localizacao h3{font-size: 36px; color: #3c184e; text-align: center; margin: 0 0 45px 0;}
+.secao-localizacao p{font-size: 20px; color: #3c184e; text-align: center; margin: 0 0 45px 0;}
+.secao-localizacao iframe{width: 800px; height: 450px; border-radius: 15px; box-shadow: 10px 10px 10px #1f26875e; border-style: none;}
+
+/*Seção rodapé*/
+.secao-radape{width: 100%; padding: 10px 0; font-size: 12px; text-align: center; height: 120px;}
